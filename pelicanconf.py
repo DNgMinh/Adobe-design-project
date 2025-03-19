@@ -8,6 +8,8 @@ TIMEZONE = 'America/Winnipeg'
 
 DEFAULT_LANG = 'English'
 
+THEME = "./assets/theme/blue-penguin-dark"
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

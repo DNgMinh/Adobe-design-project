@@ -10,12 +10,12 @@ My works explore the theme Artificial Intelligence vs Humanity. As a computer sc
 <iframe src="https://docs.google.com/document/d/1peMfSdZgacDJZUAO0NLN3RJ9NmS3TCxF/preview" width="600" height="400"></iframe> -->
 
 # My Photo using Adobe Photoshop  
-<img src="https://drive.google.com/uc?export=view&id=1Pb9LDXksuLj2A5gmBk3-72WzruhNWrcp"  alt="photo" width="600" height="400">  
-<iframe src="https://drive.google.com/file/d/1Pb9LDXksuLj2A5gmBk3-72WzruhNWrcp/preview" width="500" height="700"></iframe>
-   
+<img src="https://github.com/DNgMinh/Adobe-design-project/blob/main/assets/images/photo.jpg?raw=true" style="max-width: 100%; height: auto;" alt="photo">
+
 
 # My Poster using Adobe Illustrator
 <iframe src="https://drive.google.com/file/d/1df-6usreQTjwoFY6PvfDwBzKchmR6S1p/preview" width="500" height="700"></iframe>
+<iframe src="https://drive.google.com/file/d/1df-6usreQTjwoFY6PvfDwBzKchmR6S1p/preview" style="width: 100%; height: 700px; border: none;"></iframe>
    
 
 # My Booklet using Adobe InDesign   
@@ -23,8 +23,12 @@ My works explore the theme Artificial Intelligence vs Humanity. As a computer sc
    
 
 # My Video using Adobe Premiere Pro  
-<video width="600" height="400" controls>
+<!-- <video width="600" height="400" controls>
   <source src="https://drive.google.com/uc?id=1zDHIbbtBq0dcI-nO_xG8sJ3rr0kzhhp3" type="video/mp4">
   Your browser does not support the video tag.
-</video>  
+</video>   -->
+<!-- <iframe width="600" height="400" src="https://youtu.be/UuVA7npP_bw" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="600" height="400" src="https://www.youtube.com/embed/UuVA7npP_bw" frameborder="0" allowfullscreen></iframe>
+
+
   
