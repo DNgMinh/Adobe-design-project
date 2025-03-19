@@ -15,8 +15,7 @@ My works explore the theme Artificial Intelligence vs Humanity. As a computer sc
 
 # My Poster using Adobe Illustrator
 <iframe src="https://drive.google.com/file/d/1df-6usreQTjwoFY6PvfDwBzKchmR6S1p/preview" width="500" height="700"></iframe>
-<iframe src="https://drive.google.com/file/d/1df-6usreQTjwoFY6PvfDwBzKchmR6S1p/preview" style="width: 100%; height: 700px; border: none;"></iframe>
-   
+
 
 # My Booklet using Adobe InDesign   
 <iframe src="https://drive.google.com/file/d/1zDHIbbtBq0dcI-nO_xG8sJ3rr0kzhhp3/preview" width="500" height="650"></iframe>  
