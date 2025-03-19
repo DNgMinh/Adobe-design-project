@@ -10,7 +10,8 @@ My works explore the theme Artificial Intelligence vs Humanity. As a computer sc
 <iframe src="https://docs.google.com/document/d/1peMfSdZgacDJZUAO0NLN3RJ9NmS3TCxF/preview" width="600" height="400"></iframe> -->
 
 # My Photo using Adobe Photoshop  
-<img src="https://drive.google.com/uc?export=view&id=1Pb9LDXksuLj2A5gmBk3-72WzruhNWrcp"  width="600" height="400">  
+<img src="https://drive.google.com/uc?export=view&id=1Pb9LDXksuLj2A5gmBk3-72WzruhNWrcp"  alt="photo" width="600" height="400">  
+<iframe src="https://drive.google.com/file/d/1Pb9LDXksuLj2A5gmBk3-72WzruhNWrcp/preview" width="500" height="700"></iframe>
    
 
 # My Poster using Adobe Illustrator
